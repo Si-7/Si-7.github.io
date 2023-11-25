@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.ef7326330c58c781d57a66ef32384801.js"
+  "/precache-manifest.ffb2f8f5f169c73c6b6fa4172e740798.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "compcon"});
